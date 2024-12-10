@@ -2,7 +2,9 @@
 Photo-segmentation in Jupyter Notebook
 
 ## Project Description
-This project implements lung segmentation on chest X-ray images using a U-Net neural network architecture. The model is trained on the COVID-19 Radiography Database dataset.
+This project implements lung segmentation on chest X-ray images using a U-Net neural network architecture.
+The model is trained on the COVID-19 Radiography Database dataset.
+The project is prepared to run in Google Colab or Kaggle.
 
 ## Key Features
 - Loading and preprocessing X-ray images
